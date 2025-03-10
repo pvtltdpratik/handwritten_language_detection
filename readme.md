@@ -42,7 +42,7 @@ You should see a version number like `tesseract 5.x.x`.
 ### 1️⃣ Run the Python Script
 Replace `image_path` in the script with the path to your image, then execute:
 ```bash
-python main.py
+python version_1_main.py
 ```
 
 ### 2️⃣ Expected Output
